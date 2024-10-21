@@ -9,7 +9,7 @@
 </h1>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=550&height=70&lines=I'm+an+AI+Engineer.+Nice+to+meet+you.+%F0%9F%90%B3" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=550&height=70&lines=I'm+an+AI+Engineer.+Nice+to+meet+you.+🔥&color=red" alt="Typing SVG" /></a>
 </p>
 
 ## 🌐 Socials:
