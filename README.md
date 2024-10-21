@@ -1,6 +1,8 @@
-<picture>
-    <img align="center" src="assert/1d3b5765d96ace1858acf843b1f9d13f.png" alt="Header Img">
-</picture>
+<div align="center">
+    <picture>
+        <img src="assert/1d3b5765d96ace1858acf843b1f9d13f.png" alt="Header Img">
+    </picture>
+</div>
 
 <h1 align="center">
   :ghost:	 Hi! I'm VinhASOKEN :ghost:	
