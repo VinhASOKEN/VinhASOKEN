@@ -1,3 +1,11 @@
+<picture>
+    <img align="center" src="assets/header.png" alt="Header Img">
+</picture>
+
+<h1 align="center">
+  :ghost:	 Hi! I'm VinhASOKEN :ghost:	
+</h1>
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/profile.php?id=100012800838748) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vinh-nguyen-thanh-393547324) 
