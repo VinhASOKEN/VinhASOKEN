@@ -1,11 +1,14 @@
 <picture>
-    <img align="center" src="assets/header.png" alt="Header Img">
+    <img align="center" src="assert/1d3b5765d96ace1858acf843b1f9d13f.png" alt="Header Img">
 </picture>
 
 <h1 align="center">
   :ghost:	 Hi! I'm VinhASOKEN :ghost:	
 </h1>
 
+<p align="center">
+<a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=550&height=70&lines=I'm+an+AI+Engineer.+Also+an+Anime+Enjoyer+%F0%9F%90%B3" alt="Typing SVG" /></a>
+</p>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/profile.php?id=100012800838748) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vinh-nguyen-thanh-393547324) 
